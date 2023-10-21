@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liufanghan
 - 👀 I’m interested in programming, listening to music, watching movies
-- 🌱 I’m currently learning python and Vue.js
+- 🌱 I’m currently learning python Java and Vue.js
 
 
 <!---
